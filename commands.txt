@@ -1,3 +1,0 @@
-I want to host my own website on my personal cloud hosted VM.
-
-I choose the Wordpress.
